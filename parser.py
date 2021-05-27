@@ -84,7 +84,7 @@ elif sys.argv[2] == '3':
     sort3()
     print('File was sorted by first 32 symbols')
 
-with open('output.txt', 'w') as f:
+with open('OUTPUT.txt', 'w') as f:
     for i in range(len(pkt1)):
         f.write(delim)
         f.write('\n')
