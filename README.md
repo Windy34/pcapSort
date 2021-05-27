@@ -1,5 +1,5 @@
 # pcapSort
-Sorts pcap files by first 18/32 symbols 
+Sorts pcap files by first 18/32 symbols and creates output file named <b>OUTPUT.TXT</b>
 
 <b>How to use:</b>
 
