@@ -1,4 +1,4 @@
-# pcapSort
+# pcapK12Sort
 Sorts pcap K12 format files by first 18/32 symbols and creates output file named <b>OUTPUT.TXT</b>
 
 <b>How to use:</b>
